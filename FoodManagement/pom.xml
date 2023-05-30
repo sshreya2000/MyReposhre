@@ -3,6 +3,7 @@
   <groupId>FoodManagement</groupId>
   <artifactId>FoodManagement</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <dependencies>
 	<dependency>
     <groupId>org.postgresql</groupId>
